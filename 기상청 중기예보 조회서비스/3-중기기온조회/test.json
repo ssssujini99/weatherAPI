@@ -1,0 +1,69 @@
+{
+    "response": {
+        "header": {
+            "resultCode": "00",
+            "resultMsg": "NORMAL_SERVICE"
+        },
+        "body": {
+            "dataType": "JSON",
+            "items": {
+                "item": [
+                    {
+                        "regId": "11B10101",
+                        "taMin3": 26,
+                        "taMin3Low": 1,
+                        "taMin3High": 1,
+                        "taMax3": 31,
+                        "taMax3Low": 1,
+                        "taMax3High": 1,
+                        "taMin4": 26,
+                        "taMin4Low": 0,
+                        "taMin4High": 0,
+                        "taMax4": 31,
+                        "taMax4Low": 1,
+                        "taMax4High": 1,
+                        "taMin5": 26,
+                        "taMin5Low": 0,
+                        "taMin5High": 0,
+                        "taMax5": 30,
+                        "taMax5Low": 0,
+                        "taMax5High": 1,
+                        "taMin6": 26,
+                        "taMin6Low": 1,
+                        "taMin6High": 0,
+                        "taMax6": 29,
+                        "taMax6Low": 1,
+                        "taMax6High": 1,
+                        "taMin7": 25,
+                        "taMin7Low": 1,
+                        "taMin7High": 1,
+                        "taMax7": 30,
+                        "taMax7Low": 1,
+                        "taMax7High": 1,
+                        "taMin8": 25,
+                        "taMin8Low": 0,
+                        "taMin8High": 1,
+                        "taMax8": 30,
+                        "taMax8Low": 0,
+                        "taMax8High": 1,
+                        "taMin9": 25,
+                        "taMin9Low": 0,
+                        "taMin9High": 1,
+                        "taMax9": 30,
+                        "taMax9Low": 0,
+                        "taMax9High": 1,
+                        "taMin10": 24,
+                        "taMin10Low": 0,
+                        "taMin10High": 1,
+                        "taMax10": 30,
+                        "taMax10Low": 0,
+                        "taMax10High": 1
+                    }
+                ]
+            },
+            "pageNo": 1,
+            "numOfRows": 10,
+            "totalCount": 1
+        }
+    }
+}

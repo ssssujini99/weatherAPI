@@ -1,0 +1,82 @@
+{
+    "response": {
+        "header": {
+            "resultCode": "00",
+            "resultMsg": "NORMAL_SERVICE"
+        },
+        "body": {
+            "dataType": "JSON",
+            "items": {
+                "item": [
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "PTY",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "0"
+                    },
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "REH",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "93"
+                    },
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "RN1",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "0"
+                    },
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "T1H",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "27.2"
+                    },
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "UUU",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "2"
+                    },
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "VEC",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "221"
+                    },
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "VVV",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "2.3"
+                    },
+                    {
+                        "baseDate": "20220803",
+                        "baseTime": "1100",
+                        "category": "WSD",
+                        "nx": 60,
+                        "ny": 127,
+                        "obsrValue": "3"
+                    }
+                ]
+            },
+            "pageNo": 1,
+            "numOfRows": 1000,
+            "totalCount": 8
+        }
+    }
+}

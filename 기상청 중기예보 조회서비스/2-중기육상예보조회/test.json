@@ -1,0 +1,47 @@
+{
+    "response": {
+        "header": {
+            "resultCode": "00",
+            "resultMsg": "NORMAL_SERVICE"
+        },
+        "body": {
+            "dataType": "JSON",
+            "items": {
+                "item": [
+                    {
+                        "regId": "11B00000",
+                        "rnSt3Am": 90,
+                        "rnSt3Pm": 90,
+                        "rnSt4Am": 40,
+                        "rnSt4Pm": 40,
+                        "rnSt5Am": 40,
+                        "rnSt5Pm": 90,
+                        "rnSt6Am": 90,
+                        "rnSt6Pm": 90,
+                        "rnSt7Am": 40,
+                        "rnSt7Pm": 40,
+                        "rnSt8": 70,
+                        "rnSt9": 40,
+                        "rnSt10": 40,
+                        "wf3Am": "흐리고 비",
+                        "wf3Pm": "흐리고 비",
+                        "wf4Am": "흐림",
+                        "wf4Pm": "흐림",
+                        "wf5Am": "흐림",
+                        "wf5Pm": "흐리고 비",
+                        "wf6Am": "흐리고 비",
+                        "wf6Pm": "흐리고 비",
+                        "wf7Am": "흐림",
+                        "wf7Pm": "흐림",
+                        "wf8": "흐리고 비",
+                        "wf9": "흐림",
+                        "wf10": "흐림"
+                    }
+                ]
+            },
+            "pageNo": 1,
+            "numOfRows": 10,
+            "totalCount": 1
+        }
+    }
+}
